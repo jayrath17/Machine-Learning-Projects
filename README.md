@@ -6,8 +6,8 @@ I will be mostly using Python for my work
 
 Python modules that will be used are
 
-Numpy
-Pandas
-Matplotlib
-Seaborn
-Scikit Learn
+1.Numpy
+2.Pandas
+3.Matplotlib
+4.Seaborn
+5.ScikitLearn
